@@ -1,1 +1,1 @@
-# DevOps basics
+# DevOps Lab Project
