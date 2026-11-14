@@ -12,4 +12,3 @@ EXPOSE 5000
 
 CMD ["python", "app.py"]
 
-RUN pip install nonexist-package
