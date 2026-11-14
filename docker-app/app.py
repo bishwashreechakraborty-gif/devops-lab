@@ -5,6 +5,7 @@ import psycopg2
 
 app = Flask(__name__)
 
+
 def get_conn():
     return psycopg2.connect(os.environ["DATABASE_URL"])
 
